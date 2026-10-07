@@ -422,6 +422,10 @@ Height: 264px;
 }
 
 
+
+
+
+
 @media (max-width:768px) {
 
 
@@ -580,6 +584,26 @@ left: -40px;
 
 }
 
+/* media queries  */
+/* for tab  */
+@media (max-width: 768px){
+.visionbg{
+  width: fit-content;
+  margin-top: 100px;
+}
+
+}
+
+
+
+
+/* Phones (480px and smaller) */
+@media (max-width: 480px) {
+.visionbg{
+  width: fit-content;
+  margin-top: 50px;
+}
+}
 
 /* Goal section  */
 .Goal{
@@ -633,6 +657,21 @@ border-radius: 10px 30px;
     color: #5D5E71;
 }
 
+
+
+
+/* mobile phone or small screen */
+@media (max-width: 480px)  {
+.goalCard {
+  padding: 0px;
+   display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+   
+}
 
 /* our message section  */
 
@@ -902,6 +941,21 @@ bottom: -30px;
 
 
 
+/* media  */
+@media (max-width: 768px) {
+.cucard {
+width: fit-content;
+}
+.card{
+  margin-top: 0px;
+}
+
+
+}
+
+
+
+
 
 /* footer  */
 
@@ -1135,12 +1189,13 @@ gap: 10px;
 /* Small tablets / large phones (768px and smaller) */
 @media (max-width: 768px) {
   .copyright {
-   visibility: hidden;
+      display: none;
+
 }
 }
 /* Phones (480px and smaller) */
 @media (max-width: 480px) {
   .copyright {
-   visibility: hidden;
+   display: none;
 }
 }
