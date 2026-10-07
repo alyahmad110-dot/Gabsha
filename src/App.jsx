@@ -15,10 +15,10 @@ import VisionCard from "./Components/VisionCards.jsx";
 import ContactUs from "./Components/ContactUs.jsx";
 import CopyRight from "./Components/CopyRight.jsx";
 import Footer from "./Components/Footer.jsx";
-import gCard1 from "./assets/index-page/Gcard1.png";
-import gCard2 from "./assets/index-page/Gcard2.png";
-import gCard3 from "./assets/index-page/Gcard3.png";
-import gCard4 from "./assets/index-page/Gcard4.png";
+import gCard1 from "./assets/index-page/gcard1.png";
+import gCard2 from "./assets/index-page/gcard2.png";
+import gCard3 from "./assets/index-page/gcard3.png";
+import gCard4 from "./assets/index-page/gcard4.png";
 
 
 import cardicon1 from "./assets/index-page/cardicon1.png";

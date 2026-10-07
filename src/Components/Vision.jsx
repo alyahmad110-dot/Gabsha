@@ -6,7 +6,7 @@ export default function Vision() {
   return (
     <div className="container">
       <div className="row vision-banner">
-        <div className="col vision-left">
+        <div className="col-lg-6 col-12 vision-left">
           <h6 id="top-txt">Our Vision</h6>
 
           <h1 className="sec-heading">
@@ -38,7 +38,7 @@ export default function Vision() {
           </button>
         </div>
 
-        <div className="col vision-right">
+        <div className="col-lg-6 col-12 vision-right">
           <div className="visionbg">
             <img
               style={{ borderRadius: "50px 10px" }}
