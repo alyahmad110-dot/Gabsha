@@ -1,6 +1,6 @@
-import Message from "../assets/index-page/Message.png";
-import commas1 from "../assets/index-page/commas1.png";
-import commas2 from "../assets/index-page/commas2.png";
+import Message from "../../public/Message.png";
+import commas1 from "../../public/commas1.png";
+import commas2 from "../../public/commas2.png";
 
 export default function MessageSec() {
   return (

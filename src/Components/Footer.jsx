@@ -1,10 +1,10 @@
-import fotterbg from '../assets/index-page/footerbg.png';
-import gambshalogo from '../assets/index-page/gambshalogo.png';
-import fb from '../assets/index-page/fb.svg';
-import insta from '../assets/index-page/insta.svg';
-import linkedin from '../assets/index-page/linkedin.svg';
-import twitter from '../assets/index-page/twitter.svg';
-import polygon from '../assets/index-page/polygon.svg'
+import fotterbg from '../../public/footerbg.png';
+import gambshalogo from '../../public/gambshalogo.png';
+import fb from '../../public/fb.svg';
+import insta from '../../public/insta.svg';
+import linkedin from '../../public/linkedin.svg';
+import twitter from '../../public/twitter.svg';
+import polygon from '../../public/polygon.svg'
 
 
 

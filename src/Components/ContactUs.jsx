@@ -1,6 +1,6 @@
-import callicon from "../assets/index-page/callicon.svg";
-import mailicon from "../assets/index-page/mailicon.svg";
-import locationicon from "../assets/index-page/locationicon.svg";
+import callicon from "../../public/callicon.svg";
+import mailicon from "../../public/mailicon.svg";
+import locationicon from "../../public/locationicon.svg";
 
 export default function ContactUs() {
   return (

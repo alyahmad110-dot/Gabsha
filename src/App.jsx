@@ -15,22 +15,24 @@ import VisionCard from "./Components/VisionCards.jsx";
 import ContactUs from "./Components/ContactUs.jsx";
 import CopyRight from "./Components/CopyRight.jsx";
 import Footer from "./Components/Footer.jsx";
-import gCard1 from "./assets/index-page/gcard1.png";
-import gCard2 from "./assets/index-page/gcard2.png";
-import gCard3 from "./assets/index-page/gcard3.png";
-import gCard4 from "./assets/index-page/gcard4.png";
 
 
-import cardicon1 from "./assets/index-page/cardicon1.png";
-import cardicon2 from "./assets/index-page/cardicon2.png";
-import cardicon3 from "./assets/index-page/cardicon3.png";
-import cardicon4 from "./assets/index-page/cardicon4.png";
+import gCard1 from "../public/gcard1.png";
+import gCard2 from "../public/gcard2.png";
+import gCard3 from "../public/gcard3.png";
+import gCard4 from "../public/gcard4.png";
 
 
-import scard1 from "./assets/index-page/scard1.png";
-import scard2 from "./assets/index-page/scard2.png";
-import scard3 from "./assets/index-page/scard3.png";
-import scard4 from "./assets/index-page/scard4.png";
+import cardicon1 from "../public/cardicon1.png";
+import cardicon2 from "../public/cardicon2.png";
+import cardicon3 from "../public/cardicon3.png";
+import cardicon4 from "../public/cardicon4.png";
+
+
+import scard1 from "../public/scard1.png";
+import scard2 from "../public/scard2.png";
+import scard3 from "../public/scard3.png";
+import scard4 from "../public/scard4.png";
 
 
 

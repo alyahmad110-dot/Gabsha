@@ -1,4 +1,4 @@
-import Gcard1 from "../assets/index-page/Gcard1.png";
+import Gcard1 from "../../public/gcard1.png";
 
 export default function Goalcard({
     imgPath, 

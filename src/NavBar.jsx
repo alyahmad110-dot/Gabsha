@@ -3,7 +3,8 @@ import { useState } from "react";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import NavDropdown from "react-bootstrap/NavDropdown";
-import gambshalogo from "../src/assets/index-page/gambshalogo.png";
+import gambshalogo from "../public/gambshalogo.png";
+
 
 
 

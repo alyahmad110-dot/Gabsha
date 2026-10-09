@@ -1,10 +1,10 @@
-import Aboutusicon from "../assets/index-page/Aboutusicon.png";
-import Aboutusicon2 from "../assets/index-page/Aboutusicon2.png";
-import callicon from "../assets/index-page/callicon.png";
-import Vector from "../assets/index-page/Vector.svg";
-import aboutimg1 from "../assets/index-page/aboutimg1.png";
-import aboutimg2 from "../assets/index-page/aboutimg2.png";
-import aboutimg3 from "../assets/index-page/aboutimg3.png";
+import Aboutusicon from "../../public/Aboutusicon.png";
+import Aboutusicon2 from "../../public/Aboutusicon2.png";
+import callicon from "../../public/callicon.png";
+import Vector from "../../public/Vector.svg";
+import aboutimg1 from "../../public/aboutimg1.png";
+import aboutimg2 from "../../public/aboutimg2.png";
+import aboutimg3 from "../../public/aboutimg3.png";
 
 export default function AboutUs() {
   return (

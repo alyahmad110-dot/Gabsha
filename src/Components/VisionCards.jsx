@@ -1,5 +1,5 @@
-import Vectororange from '../assets/index-page/Vectororange.svg'
-import scard1 from '../assets/index-page/scard1.png'
+import Vectororange from '../../public/Vectororange.svg'
+import scard1 from '../../public/scard1.png'
 
 
 export default function VisionCard (props){

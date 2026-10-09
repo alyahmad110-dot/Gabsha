@@ -1,6 +1,6 @@
-import banner from "../src/assets/index-page/banner.png";
-import Vector from "../src/assets/index-page/Vector.svg";
-import Vectorblue from "../src/assets/index-page/Vectorblue.svg";
+import banner from "../public/banner.png";
+import Vector from "../public/Vector.svg";
+import Vectorblue from "../public/Vectorblue.svg";
 
 
 

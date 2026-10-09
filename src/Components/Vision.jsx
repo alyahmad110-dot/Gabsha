@@ -1,6 +1,6 @@
-import Vector from "../assets/index-page/Vector.svg";
-import visionbg from "../assets/index-page/visionbg.png";
-import visionfront from "../assets/index-page/visionfront.png";
+import Vector from "../../public/Vector.svg";
+import visionbg from "../../public/visionbg.png";
+import visionfront from "../../public/visionfront.png";
 
 export default function Vision() {
   return (
@@ -40,13 +40,13 @@ export default function Vision() {
 
         <div className="col-lg-6 col-12 vision-right">
           <div className="visionbg">
-            <img
+            <img className="back-img"
               style={{ borderRadius: "50px 10px" }}
               src={visionbg}
               alt="IMG"
             />
              <div className="visionfront">
-            <img  style={{ borderRadius: "40px 10px" }} src={visionfront} alt="IMG" />
+            <img className="front-img" style={{ borderRadius: "40px 10px" }} src={visionfront} alt="IMG" />
           </div>
 
           </div>

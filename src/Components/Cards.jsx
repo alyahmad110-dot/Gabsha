@@ -1,4 +1,4 @@
-import cardicon1 from "../assets/index-page/cardicon1.png";
+import cardicon1 from "../../public/cardicon1.png";
 
 export default function Card(props) {
   return (

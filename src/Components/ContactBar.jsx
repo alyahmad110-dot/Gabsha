@@ -1,10 +1,10 @@
-import fbicon from "../src/assets/index-page/fbicon.png";
-import instaicon from "../src/assets/index-page/instaicon.png";
-import linkedin from "../src/assets/index-page/linkedin.png";
-import twitter from "../src/assets/index-page/twitter.png";
-import locationicon from "../src/assets/index-page/locationicon.png";
-import mail from "../src/assets/index-page/mail.png";
-import phone from "../src/assets/index-page/phone.png";
+import fbicon from "../../public/fbicon.png";
+import instaicon from "../../public/instaicon.png";
+import linkedin from "../../public/linkedin.png";
+import twitter from "../../public/twitter.png";
+import locationicon from "../../public/locationicon.png";
+import mail from "../../public/mail.png";
+import phone from "../../public/phone.png";
 
 export default function ContactBar() {
   return (
