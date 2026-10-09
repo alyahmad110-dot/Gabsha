@@ -17,10 +17,10 @@ import CopyRight from "./Components/CopyRight.jsx";
 import Footer from "./Components/Footer.jsx";
 
 
-import gCard1 from "../public/gcard1.png";
-import gCard2 from "../public/gcard2.png";
-import gCard3 from "../public/gcard3.png";
-import gCard4 from "../public/gcard4.png";
+import gcard1 from "../public/gcard1.png";
+import gcard2 from "../public/gcard2.png";
+import gcard3 from "../public/gcard3.png";
+import gcard4 from "../public/gcard4.png";
 
 
 import cardicon1 from "../public/cardicon1.png";
