@@ -71,7 +71,7 @@ function App() {
 
   const Gcard = [
     {
-      img: gCard1,
+      img: gcard1,
       heading: "  UAE Vision 2071",
       title:
         "Keeping pace with the renaissance witnessed by the country by providing high-quality services in accordance with the latest international...",
@@ -79,7 +79,7 @@ function App() {
     },
 
     {
-      img: gCard2,
+      img: gcard2,
       heading: "  UAE Vision 2071",
       title:
         "Keeping pace with the renaissance witnessed by the country by providing high-quality services in accordance with the latest international...",
@@ -87,7 +87,7 @@ function App() {
     },
 
     {
-      img: gCard3,
+      img: gcard3,
       heading: "  UAE Vision 2071",
       title:
         "Keeping pace with the renaissance witnessed by the country by providing high-quality services in accordance with the latest international...",
@@ -95,7 +95,7 @@ function App() {
     },
 
     {
-      img: gCard4,
+      img: gcard4,
       heading: "  UAE Vision 2071",
       title:
         "Keeping pace with the renaissance witnessed by the country by providing high-quality services in accordance with the latest international...",
